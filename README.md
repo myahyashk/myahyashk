@@ -30,7 +30,7 @@ I am a third-semester Computer Science student at BBSUTSD Khairpur, and I am not
 
 ## 🚀 Current Operations & Projects
 
-### 💡 Operation 01: Scouttron — Arduino Based Intelligent Robo Car
+### 💡 Operation 01: Scouttron Bot — Arduino Based Intelligent Robo Car
 *Autonomous Navigation & Multi-Mode Control System*
 
 Scouttron is not just a robot car — it is a multi-mode autonomous vehicle engineered to demonstrate real-world robotics principles using accessible hardware.
