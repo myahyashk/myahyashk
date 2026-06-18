@@ -40,6 +40,7 @@ Scouttron is not just a robot car — it is a multi-mode autonomous vehicle engi
 - **Core Tech:** Arduino, IR Sensors, Ultrasonic Sensor (HC-SR04), Bluetooth Module (HC-05), Motor Driver (L298N), C++.
 
 ### 🏠 Operation 02: Neuro Sense — ESP32 Smart Home Security System
+*Build for "Workshop and Techno Expo 25 at Lincoln Corners, Khairpur"*
 *Bridging the Physical and Digital Realms*
 
 Neuro Sense is a real-time IoT security ecosystem that turns a regular home into an intelligent, self-monitoring environment.
