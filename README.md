@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Intelligent Systems at the Intersection of AI, IoT & Full Stack Development</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/myahyashk">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+UI+Architect;IoT+%26+Embedded+Systems+Engineer;AI+%7C+ESP32+%7C+Arduino+%7C+Web;Building+Real+Solutions+for+Real+Problems" alt="Typing SVG" />
   </a>
 </p>
@@ -106,15 +106,15 @@ My stack covers the full cycle — from microcontrollers to web deployment — a
 ## 📊 Engineering Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6&bg_color=1a1b26" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6&bg_color=1a1b26" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myahyashk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6&bg_color=1a1b26" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myahyashk&theme=tokyonight&hide_border=true&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6&bg_color=1a1b26" alt="GitHub Streak" width="48%" />
 </p>
 
 <details>
 <summary><b>📈 View Language Breakdown</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6&text_color=ffffff&bg_color=1a1b26" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myahyashk&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6&text_color=ffffff&bg_color=1a1b26" alt="Top Languages" width="50%" />
 </p>
 </details>
 
@@ -128,7 +128,7 @@ Whether you want to discuss a project, explore a collaboration, or just talk abo
   <a href="https://linkedin.com/in/yahya-shaikh-a02003372" target="_blank">
     <img src="https://img.shields.io/badge/Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/myahyashk" target="_blank">
     <img src="https://img.shields.io/badge/My_Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
