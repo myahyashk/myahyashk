@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --color-frost-50: #F4F7FB;
+  --color-frost-100: #E8EFF7;
+  --color-royal-blue: #0066CC;
+  --color-royal-indigo: #0041FF;
+  --color-slate-dark: #111111;
+  --font-family-sans: "Inter", "SF Pro Display", system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: var(--font-family-sans);
+    background: linear-gradient(180deg, #ffffff 0%, #f4f7fb 100%);
+    background-attachment: fixed;
+    min-height: 100vh;
+    color: #111111;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+@layer components {
+  .glass-card {
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    box-shadow: 0 8px 32px 0 rgba(0, 36, 128, 0.05);
+  }
+  .glass-card-hover {
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(32px);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    box-shadow: 0 12px 48px 0 rgba(0, 36, 128, 0.08);
+  }
+  .gradient-text {
+    background: linear-gradient(135deg, #0066cc 0%, #0041ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .blue-glow { box-shadow: 0 0 40px 0 rgba(0, 102, 204, 0.15); }
+  .blue-glow-hover:hover { box-shadow: 0 0 60px 0 rgba(0, 102, 204, 0.25); }
+}
