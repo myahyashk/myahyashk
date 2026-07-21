@@ -59,6 +59,17 @@ Zariya is an AI-orchestrated platform designed to formalize the highly fragmente
 - **My Role:** Backend & UI Architect — responsible for system logic, API structure, and interface design.
 - **Core Tech:** Next.js, AI Orchestration Logic, Vercel, Web-to-APK Encapsulation.
 
+### 💼 Operation 04: Nova — Full Stack Productivity Workspace
+*Built as the Final Project for the DecodeLabs Full Stack Development Internship*
+
+Nova is a modern productivity workspace engineered to centralize project management, task tracking, note-taking, bookmarks, and developer resources into one seamless experience.
+
+- **The Problem:** Most productivity applications focus on a single purpose, forcing users to switch between multiple tools. Nova was designed to provide a unified workspace for everyday productivity.
+- **The Architecture:** Engineered as a full-stack web application with a modern React frontend, modular component architecture, responsive interface, and scalable backend-ready design.
+- **The Features:** Secure authentication, interactive dashboard with analytics, project and task management, rich text notes, bookmarks, developer resources, global search, file attachments, responsive UI, and custom Nova branding with smooth interactive animations.
+- **My Role:** Full Stack Developer — responsible for frontend architecture, UI/UX design, application logic, component development, and full project integration.
+- **Core Tech:** React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, React Router, Vite, Git & GitHub.
+  
 ---
 
 ## 💻 The Tech Arsenal
