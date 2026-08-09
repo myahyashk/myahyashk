@@ -39,56 +39,119 @@ I am a fourth-semester Computer Science student at BBSUTSD Khairpur, and I am no
 
 ## Current Operations & Projects
 
-### Operation 01: Scouttron Bot — Arduino Based Intelligent Robo Car
-*Autonomous Navigation & Multi-Mode Control System*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Operation 01: Scouttron Bot
+*Arduino Based Intelligent Robo Car*
 
 Scouttron is not just a robot car — it is a multi-mode autonomous vehicle engineered to demonstrate real-world robotics principles using accessible hardware.
-- **The Problem:** Most student robotics projects are single-function demos. Scouttron was built to be a complete, multi-functional system.
-- **The Architecture:** Engineered multiple operational modes into a single Arduino-based platform, each mode handling a different type of environmental interaction.
-- **The Features:** Line following using IR sensors for autonomous path tracking, ultrasonic-based object detection and collision avoidance, Bluetooth remote control for manual override, and modular code architecture allowing easy feature expansion.
-- **Core Tech:** Arduino, IR Sensors, Ultrasonic Sensor (HC-SR04), Bluetooth Module (HC-05), Motor Driver (L298N), C++.
 
-### Operation 02: Neuro Sense — ESP32 Smart Home Security System
-*Built for "Workshop and Techno Expo 25 at Lincoln Corners, Khairpur"*
-*Bridging the Physical and Digital Realms*
+**The Problem:** Most student robotics projects are single-function demos. Scouttron was built to be a complete, multi-functional system.
+
+**The Architecture:** Engineered multiple operational modes into a single Arduino-based platform, each mode handling a different type of environmental interaction.
+
+**The Features:** Line following using IR sensors for autonomous path tracking, ultrasonic-based object detection and collision avoidance, Bluetooth remote control for manual override, and modular code architecture allowing easy feature expansion.
+
+**Core Tech:** Arduino, IR Sensors, Ultrasonic Sensor (HC-SR04), Bluetooth Module (HC-05), Motor Driver (L298N), C++.
+
+</td>
+<td width="50%" valign="top">
+
+### Operation 02: Neuro Sense
+*ESP32 Smart Home Security System*
+*Built for Workshop and Techno Expo 25 at Lincoln Corners, Khairpur*
 
 Neuro Sense is a real-time IoT security ecosystem that turns a regular home into an intelligent, self-monitoring environment.
-- **The Problem:** Home security in Pakistan is either too expensive or too basic. Neuro Sense was built to be powerful, affordable, and remotely controllable.
-- **The Architecture:** ESP32 microcontroller at the core, integrating multiple sensor types into a unified alarm and monitoring system with full remote access via Blynk dashboard.
-- **The Features:** Smart arming with Home/Away modes, PIR-based intruder detection with strobe alarm, MQ-5 gas leak detection with early warning thresholds, flame sensor for fire detection, convenience auto-light, and push notifications to your phone.
-- **Core Tech:** ESP32, Blynk IoT, PIR Sensor, MQ-5 Gas Sensor, Flame Sensor, LDR, Vibration Sensor, Arduino IDE, C++.
 
-### Operation 03: Zariya — Autonomous Home Services Platform
+**The Problem:** Home security in Pakistan is either too expensive or too basic. Neuro Sense was built to be powerful, affordable, and remotely controllable.
+
+**The Architecture:** ESP32 microcontroller at the core, integrating multiple sensor types into a unified alarm and monitoring system with full remote access via Blynk dashboard.
+
+**The Features:** Smart arming with Home/Away modes, PIR-based intruder detection with strobe alarm, MQ-5 gas leak detection, flame sensor for fire detection, convenience auto-light, and push notifications to your phone.
+
+**Core Tech:** ESP32, Blynk IoT, PIR Sensor, MQ-5 Gas Sensor, Flame Sensor, LDR, Vibration Sensor, Arduino IDE, C++.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Operation 03: Zariya
+*Autonomous Home Services Platform*
 *Built for GDG AI Seekho Pakistan Hackathon 2026*
 
 Zariya is an AI-orchestrated platform designed to formalize the highly fragmented home services economy in Pakistan.
-- **The Problem:** The local service sector — plumbers, electricians, technicians — operates in unorganized chaos, creating trust deficits and inefficiencies for both workers and households.
-- **The Architecture:** Engineered a smart matching engine that connects verified service providers with households dynamically, with a clean and accessible UI designed for all types of users.
-- **The Execution:** Successfully delivered a crash-free, production-ready frontend deployed on Vercel, packaged as an APK — under tight hackathon deadlines.
-- **My Role:** Backend & UI Architect — responsible for system logic, API structure, and interface design.
-- **Core Tech:** Next.js, AI Orchestration Logic, Vercel, Web-to-APK Encapsulation.
 
-### Operation 04: Nova — Full Stack Productivity Workspace
-*Built as the Final Project for the DecodeLabs Full Stack Development Internship*
+**The Problem:** The local service sector — plumbers, electricians, technicians — operates in unorganized chaos, creating trust deficits and inefficiencies for both workers and households.
+
+**The Architecture:** Engineered a smart matching engine that connects verified service providers with households dynamically, with a clean and accessible UI designed for all types of users.
+
+**The Execution:** Successfully delivered a crash-free, production-ready frontend deployed on Vercel, packaged as an APK — under tight hackathon deadlines.
+
+**My Role:** Backend & UI Architect — responsible for system logic, API structure, and interface design.
+
+**Core Tech:** Next.js, AI Orchestration Logic, Vercel, Web-to-APK Encapsulation.
+
+</td>
+<td width="50%" valign="top">
+
+### Operation 04: Nova
+*Full Stack Productivity Workspace*
+*Final Project for the DecodeLabs Full Stack Development Internship*
 
 Nova is a modern productivity workspace engineered to centralize project management, task tracking, note-taking, bookmarks, and developer resources into one seamless experience.
 
-- **The Problem:** Most productivity applications focus on a single purpose, forcing users to switch between multiple tools. Nova was designed to provide a unified workspace for everyday productivity.
-- **The Architecture:** Engineered as a full-stack web application with a modern React frontend, modular component architecture, responsive interface, and scalable backend-ready design.
-- **The Features:** Secure authentication, interactive dashboard with analytics, project and task management, rich text notes, bookmarks, developer resources, global search, file attachments, responsive UI, and custom Nova branding with smooth interactive animations.
-- **My Role:** Full Stack Developer — responsible for frontend architecture, UI/UX design, application logic, component development, and full project integration.
-- **Core Tech:** React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, React Router, Vite, Git & GitHub.
+**The Problem:** Most productivity applications focus on a single purpose, forcing users to switch between multiple tools. Nova was designed to provide a unified workspace for everyday productivity.
 
-### Operation 05: SocialFlow AI (Pulse) — Agentic Social Media Manager
+**The Architecture:** Engineered as a full-stack web application with a modern React frontend, modular component architecture, responsive interface, and scalable backend-ready design.
+
+**The Features:** Secure authentication, interactive dashboard with analytics, project and task management, rich text notes, bookmarks, developer resources, global search, file attachments, responsive UI, and custom Nova branding.
+
+**My Role:** Full Stack Developer — responsible for frontend architecture, UI/UX design, application logic, component development, and full project integration.
+
+**Core Tech:** React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, React Router, Vite, Git & GitHub.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Operation 05: SocialFlow AI (Pulse)
+*Agentic Social Media Manager*
 *Built for the Gemini XPRIZE Competition*
 
 Pulse is an AI-driven social media orchestration platform built to help Pakistani small and medium businesses manage their entire digital presence autonomously.
 
-- **The Problem:** Small businesses in Pakistan lack the time, budget, and expertise to run a consistent, effective social media presence across multiple platforms.
-- **The Architecture:** Engineered a Next.js frontend with an animated, state-aware branding system — including a custom logo that visually reflects live application state — integrated into a multi-platform orchestration dashboard.
-- **The Features:** Unified integration hub for Instagram, Facebook, LinkedIn and YouTube, real-time engagement analytics, autonomous scheduling and self-healing content workflows, and a fully custom animated brand identity system.
-- **My Role:** Frontend Developer — responsible for responsive design fixes, UI refinement, and building the animated logo and branding system on top of the existing team codebase.
-- **Core Tech:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, GSAP, Git & GitHub.
+**The Problem:** Small businesses in Pakistan lack the time, budget, and expertise to run a consistent, effective social media presence across multiple platforms.
+
+**The Architecture:** Engineered a Next.js frontend with an animated, state-aware branding system — including a custom logo that visually reflects live application state — integrated into a multi-platform orchestration dashboard.
+
+**The Features:** Unified integration hub for Instagram, Facebook, LinkedIn and YouTube, real-time engagement analytics, autonomous scheduling and self-healing content workflows, and a fully custom animated brand identity system.
+
+**My Role:** Frontend Developer — responsible for responsive design fixes, UI refinement, and building the animated logo and branding system on top of the existing team codebase.
+
+**Core Tech:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, GSAP, Git & GitHub.
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<br><br><br>
+
+**More Operations**
+**Deploying Soon**
+
+<br><br><br>
+
+</div>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
