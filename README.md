@@ -134,22 +134,30 @@ Pulse is an AI-driven social media orchestration platform built to help Pakistan
 **Core Tech:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, GSAP, Git & GitHub.
 
 </td>
+
+<tr>
+<td width="50%" valign="top">
+
+### Operation 06: MockMate
+*AI Interview Coach & Performance Evaluator*
+*Built for the Central AI Developer Internship (Certified)*
+
+MockMate is an intelligent interview coaching agent engineered to simulate realistic technical and behavioral interviews, providing real-time evaluation and constructive feedback.
+
+**The Problem:** Job seekers often practice in isolation without objective feedback on how their interview responses are structured, scored, or perceived by hiring managers.
+
+**The Architecture:** Built with a robust Python and FastAPI backend, leveraging Google Gemini to analyze candidate answers against target roles, evaluate performance, and generate actionable scoring and polished model rewrites.
+
+**The Features:** Dynamic question prompting based on role context, multi-dimensional response scoring, identification of core strengths and weaknesses, and automated delivery of professional answer rewrites.
+
+**Core Tech:** Python, FastAPI, Google Gemini SDK, Pydantic, Central AI Runtime, Git & GitHub.
+
+</td>
 <td width="50%" valign="top">
 
 <div align="center">
 
 <br><br><br>
-
-**More Operations**
-**Deploying Soon**
-
-<br><br><br>
-
-</div>
-
-</td>
-</tr>
-</table>
 
 
 ---
