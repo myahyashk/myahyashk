@@ -12,8 +12,6 @@
 
 <h3 align="center">Co-Founder at Evorozen | Full-Stack Engineer — Next.js & React.js | Bridging Hardware & Software Systems</h3>
 
-<h3 align="center">Engineering Intelligent Systems at the Intersection of AI, IoT & Full Stack Development</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=myahyashk&color=0e75b6&style=flat-square&label=Profile+Views" />
 </p>
