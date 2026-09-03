@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Muhammad%20Yahya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -7,6 +9,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+UI+Architect;IoT+%26+Embedded+Systems+Engineer;AI+%7C+ESP32+%7C+Arduino+%7C+Web;Building+Real+Solutions+for+Real+Problems" alt="Typing SVG" />
   </a>
 </p>
+
+<h3 align="center">Co-Founder at Evorozen | Full-Stack Engineer — Next.js & React.js | Bridging Hardware & Software Systems</h3>
 
 <h3 align="center">Engineering Intelligent Systems at the Intersection of AI, IoT & Full Stack Development</h3>
 
@@ -42,23 +46,8 @@ I am a fourth-semester Computer Science student at BBSUTSD Khairpur, and I am no
 <tr>
 <td width="50%" valign="top">
 
-### Operation 01: Scouttron Bot
-*Arduino Based Intelligent Robo Car*
+### Operation 01: Neuro Sense
 
-Scouttron is not just a robot car — it is a multi-mode autonomous vehicle engineered to demonstrate real-world robotics principles using accessible hardware.
-
-**The Problem:** Most student robotics projects are single-function demos. Scouttron was built to be a complete, multi-functional system.
-
-**The Architecture:** Engineered multiple operational modes into a single Arduino-based platform, each mode handling a different type of environmental interaction.
-
-**The Features:** Line following using IR sensors for autonomous path tracking, ultrasonic-based object detection and collision avoidance, Bluetooth remote control for manual override, and modular code architecture allowing easy feature expansion.
-
-**Core Tech:** Arduino, IR Sensors, Ultrasonic Sensor (HC-SR04), Bluetooth Module (HC-05), Motor Driver (L298N), C++.
-
-</td>
-<td width="50%" valign="top">
-
-### Operation 02: Neuro Sense
 *ESP32 Smart Home Security System*
 *Built for Workshop and Techno Expo 25 at Lincoln Corners, Khairpur*
 
@@ -73,11 +62,10 @@ Neuro Sense is a real-time IoT security ecosystem that turns a regular home into
 **Core Tech:** ESP32, Blynk IoT, PIR Sensor, MQ-5 Gas Sensor, Flame Sensor, LDR, Vibration Sensor, Arduino IDE, C++.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### Operation 03: Zariya
+### Operation 02: Zariya
+
 *Autonomous Home Services Platform*
 *Built for GDG AI Seekho Pakistan Hackathon 2026*
 
@@ -94,30 +82,12 @@ Zariya is an AI-orchestrated platform designed to formalize the highly fragmente
 **Core Tech:** Next.js, AI Orchestration Logic, Vercel, Web-to-APK Encapsulation.
 
 </td>
-<td width="50%" valign="top">
-
-### Operation 04: Nova
-*Full Stack Productivity Workspace*
-*Final Project for the DecodeLabs Full Stack Development Internship*
-
-Nova is a modern productivity workspace engineered to centralize project management, task tracking, note-taking, bookmarks, and developer resources into one seamless experience.
-
-**The Problem:** Most productivity applications focus on a single purpose, forcing users to switch between multiple tools. Nova was designed to provide a unified workspace for everyday productivity.
-
-**The Architecture:** Engineered as a full-stack web application with a modern React frontend, modular component architecture, responsive interface, and scalable backend-ready design.
-
-**The Features:** Secure authentication, interactive dashboard with analytics, project and task management, rich text notes, bookmarks, developer resources, global search, file attachments, responsive UI, and custom Nova branding.
-
-**My Role:** Full Stack Developer — responsible for frontend architecture, UI/UX design, application logic, component development, and full project integration.
-
-**Core Tech:** React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, React Router, Vite, Git & GitHub.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Operation 05: SocialFlow AI (Pulse)
+### Operation 03: SocialFlow AI (Pulse)
+
 *Agentic Social Media Manager*
 *Built for the Gemini XPRIZE Competition*
 
@@ -136,20 +106,6 @@ Pulse is an AI-driven social media orchestration platform built to help Pakistan
 </td>
 <td width="50%" valign="top">
 
-### Operation 06: MockMate
-*AI Interview Coach & Performance Evaluator*
-*Built for the Central AI Developer Internship (Certified)*
-
-MockMate is an intelligent interview coaching agent engineered to simulate realistic technical and behavioral interviews, providing real-time evaluation and constructive feedback.
-
-**The Problem:** Job seekers often practice in isolation without objective feedback on how their interview responses are structured, scored, or perceived by hiring managers.
-
-**The Architecture:** Built with a robust Python and FastAPI backend, leveraging Google Gemini to analyze candidate answers against target roles, evaluate performance, and generate actionable scoring and polished model rewrites.
-
-**The Features:** Dynamic question prompting based on role context, multi-dimensional response scoring, identification of core strengths and weaknesses, and automated delivery of professional answer rewrites.
-
-**Core Tech:** Python, FastAPI, Google Gemini SDK, Pydantic, Central AI Runtime, Git & GitHub.
-
 </td>
 </tr>
 </table>
@@ -161,7 +117,9 @@ MockMate is an intelligent interview coaching agent engineered to simulate reali
 My stack covers the full cycle — from microcontrollers to web deployment — allowing me to build complete systems independently.
 
 ### Full Stack Web Development
+
 > Building complete web applications from database to deployed frontend.
+
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -172,7 +130,9 @@ My stack covers the full cycle — from microcontrollers to web deployment — a
 </p>
 
 ### Artificial Intelligence & Data
+
 > Exploring AI integration and data-driven systems.
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
@@ -180,7 +140,9 @@ My stack covers the full cycle — from microcontrollers to web deployment — a
 </p>
 
 ### IoT & Embedded Systems
+
 > Programming the physical world through microcontrollers and sensor networks.
+
 <p align="left">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
@@ -189,7 +151,9 @@ My stack covers the full cycle — from microcontrollers to web deployment — a
 </p>
 
 ### Tools & Deployment
+
 > Version control, cloud deployment, and development environments.
+
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -249,3 +213,5 @@ Whether you want to discuss a project, explore a collaboration, or just talk abo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
+
+This now has **3 projects only**: Neuro Sense, Zariya, and SocialFlow AI (Pulse).
