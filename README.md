@@ -5,11 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/myahyashk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=Co-Founder+at+Evorozen;Full-Stack+Engineer+%7C+Next.js+%26+React.js;Bridging+Hardware+%26+Software+Systems;Full+Stack+Developer;Backend+%26+UI+Architect;IoT+%26+Embedded+Systems+Engineer;AI+%7C+ESP32+%7C+Arduino+%7C+Web;Building+Real+Solutions+for+Real+Problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=Co-Founder+at+Evorozen;Full-Stack+Engineer+%7C+Next.js+%26+React.js;Bridging+Hardware+%26+Software+Systems;Backend+%26+UI+Architect;IoT+%26+Embedded+Systems+Engineer;AI+%7C+ESP32+%7C+Arduino+%7C+Web;Building+Real+Solutions+for+Real+Problems" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">Engineering Intelligent Systems at the Intersection of AI, IoT & Full Stack Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=myahyashk&color=0e75b6&style=flat-square&label=Profile+Views" />
