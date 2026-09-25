@@ -101,6 +101,29 @@ Pulse is an AI-driven social media orchestration platform built to help Pakistan
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Operation 04: Saathi 🌾
+
+*AI-Powered Farm Decision Intelligence System*
+*Built for Hackathon 2026*
+
+Saathi is a farmer-first agricultural decision intelligence platform designed specifically for Pakistani smallholders and agri-traders.
+
+**The Problem:** Pakistani farmers often make critical decisions using scattered weather information, mandi contacts, generic AI advice, and personal memory. Saathi brings these disconnected workflows together into one system that turns farm observations, weather, crop stage, disease intelligence, market data, and farm history into actionable decisions.
+
+**The Architecture:** Engineered a hybrid full-stack system combining a React 18 frontend, Express 5 backend, Gemini multimodal AI, external agricultural data services, and an independent deterministic local decision intelligence layer. Core agronomic and economic calculations remain independent from LLMs for predictable, testable, and auditable results.
+
+**The Execution:** Built an integrated farm intelligence workflow covering AI disease detection, crop recommendations, bilingual agricultural assistance, weather intelligence, local Farm Memory, deterministic farm decision engines, disease-weather analysis, crop lifecycle tracking, official AMIS market intelligence, economic impact calculations, action planning, decision simulation, auditable evidence chains, proactive Farm Watch alerts, and a farmer-to-buyer marketplace.
+
+**My Role:** Full-Stack Developer — responsible for system architecture, frontend and backend implementation, AI integration, deterministic decision engines, agricultural intelligence workflows, marketplace functionality, testing, and overall product integration.
+
+**Core Tech:** React 18, TypeScript, Node.js, Express 5, Tailwind CSS, Google Gemini, Open-Meteo API, AMIS Punjab, Supabase, Vite, Recharts, Git & GitHub.
+
+</td>
+</tr>
 </table>
 
 ---
