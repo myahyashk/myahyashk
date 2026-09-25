@@ -101,7 +101,6 @@ Pulse is an AI-driven social media orchestration platform built to help Pakistan
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -123,8 +122,6 @@ Saathi is a farmer-first agricultural decision intelligence platform designed sp
 
 </td>
 </tr>
-
-
 </table>
 
 ---
