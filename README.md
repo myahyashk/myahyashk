@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Muhammad%20Yahya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -79,6 +78,7 @@ Zariya is an AI-orchestrated platform designed to formalize the highly fragmente
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -100,11 +100,11 @@ Pulse is an AI-driven social media orchestration platform built to help Pakistan
 **Core Tech:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, GSAP, Git & GitHub.
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
 ### Operation 04: Saathi 🌾
+
 *AI-Powered Farm Decision Intelligence System*
 *Built for Hackathon 2026*
 
@@ -227,4 +227,3 @@ Whether you want to discuss a project, explore a collaboration, or just talk abo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
-
