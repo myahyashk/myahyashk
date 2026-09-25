@@ -106,7 +106,6 @@ Pulse is an AI-driven social media orchestration platform built to help Pakistan
 <td width="50%" valign="top">
 
 ### Operation 04: Saathi 🌾
-
 *AI-Powered Farm Decision Intelligence System*
 *Built for Hackathon 2026*
 
@@ -124,6 +123,8 @@ Saathi is a farmer-first agricultural decision intelligence platform designed sp
 
 </td>
 </tr>
+
+
 </table>
 
 ---
